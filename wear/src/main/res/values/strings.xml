@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HR Wear</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="heartRateDefaultText">Current Heart Rate: </string>
+    <string name="stepText">Current Steps: </string>
+    <string name="start">Start</string>
+    <string name="end">End  </string>
+
+</resources>
